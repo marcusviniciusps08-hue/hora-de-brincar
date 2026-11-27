@@ -5,8 +5,8 @@
 Contém links de afiliado Mercado Livre.
 
 ## Categorias
-- [Brincadeiras e colecionáveis](https://marcusviniciusps08-hue.github.io/hora-de-brincar/categoria/brincadeiras-e-colecionaveis/)
 - [Patins, patinetes e lazer ao ar livre](https://marcusviniciusps08-hue.github.io/hora-de-brincar/categoria/patins-patinetes-e-lazer-ao-ar-livre/)
+- [Brincadeiras e colecionáveis](https://marcusviniciusps08-hue.github.io/hora-de-brincar/categoria/brincadeiras-e-colecionaveis/)
 - [Pelúcias, bonecos e carrinhos](https://marcusviniciusps08-hue.github.io/hora-de-brincar/categoria/pelucias-bonecos-e-carrinhos/)
 - [Casinhas, mesinhas e faz de conta](https://marcusviniciusps08-hue.github.io/hora-de-brincar/categoria/casinhas-mesinhas-e-faz-de-conta/)
 - [Blocos e montar](https://marcusviniciusps08-hue.github.io/hora-de-brincar/categoria/blocos-e-montar/)
